@@ -3,5 +3,5 @@
 Open integrated terminal using <kbd>Ctrl+`</kbd>.
 
 ```bash
-node index.js
+node file.js
 ```
