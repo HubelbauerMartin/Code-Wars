@@ -3,5 +3,5 @@
 Open integrated terminal using <kbd>Ctrl+`</kbd>.
 
 ```bash
-node file.js
+npx nodemon --exec 'clear && node file.js'
 ```
